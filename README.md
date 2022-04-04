@@ -1,4 +1,4 @@
-# ProjectOcean
+# Ocean Simulation
 
 ### Overview
 
