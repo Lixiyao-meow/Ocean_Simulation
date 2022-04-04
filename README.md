@@ -8,6 +8,9 @@ We present a procedural method for sea surface simulation. Our model is based on
 ![final_result2](https://user-images.githubusercontent.com/76222299/161565703-f0af7abd-0a5f-48f5-8f48-afc193e4f3d3.PNG)
 ![waves](https://user-images.githubusercontent.com/76222299/161565711-ad5755f8-d04f-46f7-a047-6c4eb31a09f2.PNG)
 ![seafoam](https://user-images.githubusercontent.com/76222299/161565705-878549f6-a357-4217-bc61-8eaf9119f391.PNG)
-![night](https://user-images.githubusercontent.com/76222299/161565706-4bb191b1-8afc-4188-9837-5b8b2bdbbf97.PNG)
-![sunset](https://user-images.githubusercontent.com/76222299/161565708-3c28453a-7765-4e4f-aaa5-b2234709a101.PNG)
 
+### To Run
+'''
+make ..
+./pgm
+'''
